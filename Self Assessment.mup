@@ -1,0 +1,299 @@
+{
+  "title": "Self Assessment",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Topic",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Test Strategy",
+          "id": 3
+        },
+        "2": {
+          "title": "Test Planning",
+          "id": 4
+        },
+        "3": {
+          "title": "Test Tooling/Automation",
+          "id": 5,
+          "ideas": {
+            "1": {
+              "title": "Test Pyramid",
+              "id": 15
+            }
+          }
+        },
+        "4": {
+          "title": "Test Reporting",
+          "id": 6
+        },
+        "5": {
+          "title": "Test Techniques",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "Checking vs. Testing",
+              "id": 16
+            }
+          }
+        },
+        "6": {
+          "title": "Engineering Disciplines",
+          "id": 8,
+          "ideas": {
+            "1": {
+              "title": "Application Testability",
+              "id": 14,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "7": {
+          "title": "Team Structure",
+          "id": 9,
+          "ideas": {
+            "1": {
+              "title": "Who's responsible tester vs. whole team",
+              "id": 10,
+              "ideas": {}
+            }
+          }
+        },
+        "8": {
+          "title": "Collaboration",
+          "id": 11,
+          "ideas": {
+            "1": {
+              "title": "Cross team collaboration",
+              "id": 12
+            }
+          }
+        },
+        "9": {
+          "title": "Requirements Techniques",
+          "id": 18
+        },
+        "10": {
+          "title": "Bussiness Engagement",
+          "id": 19,
+          "ideas": {
+            "1": {
+              "title": "empowerment",
+              "id": 20
+            }
+          }
+        },
+        "11": {
+          "title": "Risk based approach",
+          "id": 42,
+          "ideas": {
+            "1": {
+              "title": "Capabiilities",
+              "id": 60,
+              "attr": {
+                "style": {}
+              }
+            }
+          }
+        },
+        "12": {
+          "title": "Responsibility",
+          "id": 43,
+          "ideas": {
+            "1": {
+              "title": "Ownership",
+              "id": 44
+            },
+            "2": {
+              "title": "Reasons for testing",
+              "id": 45
+            },
+            "3": {
+              "title": "Customer focused",
+              "id": 50
+            },
+            "4": {
+              "title": "us vs. stakeholders",
+              "id": 51
+            }
+          }
+        },
+        "5.5": {
+          "title": "Test Design",
+          "id": 17
+        }
+      }
+    },
+    "12": {
+      "title": "NON Goals",
+      "id": 34,
+      "ideas": {
+        "1": {
+          "title": "100% objective",
+          "id": 35
+        },
+        "2": {
+          "title": "Maturity model//measurement",
+          "id": 36,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Too detailed",
+          "id": 37
+        },
+        "4": {
+          "title": "Should not 100% true",
+          "id": 62
+        }
+      }
+    },
+    "13": {
+      "title": "Form",
+      "id": 47,
+      "ideas": {
+        "1": {
+          "title": "Survey",
+          "id": 48,
+          "ideas": {
+            "1": {
+              "title": "Questionnaire",
+              "id": 52,
+              "ideas": {
+                "1": {
+                  "title": "y/n",
+                  "id": 55
+                }
+              }
+            },
+            "2": {
+              "title": "Multiple choice",
+              "id": 53
+            },
+            "3": {
+              "title": "Rated",
+              "id": 56,
+              "ideas": {
+                "1": {
+                  "title": "by gutfeeling",
+                  "id": 59
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "In what detail?",
+          "id": 61
+        },
+        "3": {
+          "title": "Conclusive raportage",
+          "id": 65,
+          "ideas": {
+            "1": {
+              "title": "Pillars of Testing",
+              "id": 66
+            },
+            "2": {
+              "title": "MindMap",
+              "id": 67
+            },
+            "3": {
+              "title": "Pie chart",
+              "id": 68,
+              "ideas": {
+                "1": {
+                  "title": "4 epics",
+                  "id": 69
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "Epics",
+      "id": 21,
+      "ideas": {
+        "1": {
+          "title": "Delibarate Discovery",
+          "id": 24
+        },
+        "2": {
+          "title": "TDA",
+          "id": 25
+        },
+        "3": {
+          "title": "PT",
+          "id": 26
+        },
+        "4": {
+          "title": "RT",
+          "id": 27
+        }
+      }
+    },
+    "-0.5": {
+      "title": "Goals",
+      "id": 23,
+      "ideas": {
+        "1": {
+          "title": "Input for Roadmap",
+          "id": 29
+        },
+        "2": {
+          "title": "Find strengths/weaknesses",
+          "id": 30
+        },
+        "3": {
+          "title": "Inspiration",
+          "id": 31
+        },
+        "4": {
+          "title": "Starting point for discussion",
+          "id": 32
+        },
+        "5": {
+          "title": "Self Reflection",
+          "id": 33
+        },
+        "6": {
+          "title": "Should take little effort",
+          "id": 39
+        },
+        "7": {
+          "title": "Should involve all teammembers",
+          "id": 40,
+          "ideas": {
+            "1": {
+              "title": "Should not be a biased opinion of one or two people",
+              "id": 41
+            }
+          }
+        },
+        "8": {
+          "title": "Should serve the team in the first place",
+          "id": 63
+        },
+        "9": {
+          "title": "Get feedback on the effectiveness of the program",
+          "id": 64
+        }
+      },
+      "attr": {
+        "position": [
+          100,
+          -103,
+          1
+        ],
+        "style": {}
+      }
+    }
+  }
+}
